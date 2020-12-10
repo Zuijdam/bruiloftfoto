@@ -45,7 +45,7 @@ em { font-style: italic; }
 a { color: #ffffff; text-decoration: underline; 
 -webkit-transition: all .2s ease; -moz-transition: all .2s ease; -ms-transition: all .2s ease; -o-transition: all .2s ease; transition: all .2s ease; }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover { text-decoration: underline; }
-a:hover { text-decoration: none; color: #222;  } 
+a:hover { text-decoration: none; color: rgb(212, 160, 160);  } 
 img { border: 0; margin-top: 5px; margin-bottom: 2em; max-width: 100%; height: auto; }
 p img, h2 img { vertical-align: middle; }
 ul ul, ol ol { padding-bottom: 0; }
