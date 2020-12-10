@@ -1,24 +1,24 @@
 # Site settings
-title: PHOTORAMA
+title: 12 september 2020 - Merel en Erik
 email: ""
-description: "Photo Journal"
+description: "Foto!"
 url: "https://zuijdam.github.io"
 baseurl: "/bruiloftfoto"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
-share: true
+# facebook_username: ""
+# twitter_username: ""
+# instagram_username: ""
+github_username:  "Zuijdam"
+# deviantart_username: ""
+# flickr_username: ""
+# discus_shortname: ""
+share: false
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   van Zuijdam
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Geen info
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
